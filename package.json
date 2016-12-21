@@ -1,0 +1,8 @@
+{
+  "name": "widget-sdk",
+  "version": "0.0.1",
+  "dependencies": {
+    "lodash": "^4.6.1",
+    "moment": "^2.13.0"
+  }
+}
